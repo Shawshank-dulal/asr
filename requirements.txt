@@ -1,0 +1,5 @@
+torch
+setuptools-rust
+tiktoken==0.3.3
+numba
+more-itertools
